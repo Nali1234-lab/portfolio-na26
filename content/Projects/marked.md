@@ -11,7 +11,7 @@ Marked er mit første portfolioprojekt, hvor jeg [beskriv kort hvad
 projektet gør — fx "et markedsplads-website hvor brugere kan..."].
 Jeg byggede det med [teknologier du brugte, fx HTML, CSS, JavaScript].
 
-<img src="/images/marked.png" alt="Profile picture" width="200">
+![marked picture](images/marked.png)
 
 ## Flere detaljer
 

@@ -13,7 +13,7 @@ I enjoy working across the full stack, from designing clean interfaces
 to solving problems on the backend, and I'm always looking to deepen
 my knowledge of new tools and technologies.
 
-<img src="/images/mig.jpg" alt="Profile picture" width="200">
+![Profile picture](images/mig.png)
 
 I'm currently based in Copenhagen and actively looking for opportunities
 to grow as a developer and contribute to meaningful projects within a
