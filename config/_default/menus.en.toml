@@ -1,0 +1,13 @@
+[[main]]
+  name = "About"
+  pageRef = "about"
+  identifer= "jhajha"
+  weight = 9_990
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  identifer= "klksladm"
+  weight = 9_999
+
+
