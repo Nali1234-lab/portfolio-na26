@@ -7,7 +7,7 @@ showPagination: false
 
 ## About Me
 
-I'm a Computer Science graduate (Datamatiker) with a strong interest in
+I'm a Computer Science graduate with a strong interest in
 web development and building well-structured, user-friendly applications.
 I enjoy working across the full stack, from designing clean interfaces
 to solving problems on the backend, and I'm always looking to deepen
